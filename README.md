@@ -8,12 +8,12 @@
 ---
 
 ## 🌐 Socials:
+[![Codolio](https://img.shields.io/badge/Codolio-Profile-blue?style=for-the-badge)](https://codolio.com/profile/kumaranup10)
 [![LeetCode](https://img.shields.io/badge/LeetCode-kumaranup10-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/kumaranup10/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kumaranup10)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumaranup9135072766@gmail.com)  
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Prajapatianup10)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kumaranup10)
-
 ---
 
 # 💻 Tech Stack:
